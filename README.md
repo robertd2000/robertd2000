@@ -16,5 +16,5 @@ You can click the Preview link to take a look at your changes.
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=TypeScript&logoColor=007ACC)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)&nbsp;
 ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)&nbsp;
-![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue3)&nbsp;
+![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vuejs)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
