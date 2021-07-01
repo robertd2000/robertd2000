@@ -18,3 +18,4 @@ You can click the Preview link to take a look at your changes.
 ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)&nbsp;
 ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vuedotjs)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
+![Selenium](https://img.shields.io/badge/-Selenium-333333?style=flat&logo=Selenium)&nbsp;
