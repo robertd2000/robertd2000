@@ -32,8 +32,8 @@ You can click the Preview link to take a look at your changes.
 ![PyCharm](https://img.shields.io/badge/-PyCharm-333333?style=flat&logo=pycharm)&nbsp;
 
 
-[![robertd2000's GitHub stats](https://github-readme-stats.vercel.app/api?username=robertd2000)](https://github.com/robertd2000/github-readme-stats)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=robertd2000&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=robertd2000&langs_count=5&theme=tokyonight)]()
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robertd2000)](https://github.com/anuraghazra/github-readme-stats)
 
 
