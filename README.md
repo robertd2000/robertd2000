@@ -6,6 +6,9 @@
 robertd2000/robertd2000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+[![robertd2000's GitHub stats](https://github-readme-stats.vercel.app/api?username=robertd2000)](https://github.com/anuraghazra/github-readme-stats)
+
 ### 💻 Tech Stack:
 
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5&logoColor=E34F26)&nbsp;
