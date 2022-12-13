@@ -29,3 +29,4 @@ You can click the Preview link to take a look at your changes.
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
 ![PyCharm](https://img.shields.io/badge/-PyCharm-333333?style=flat&logo=pycharm)&nbsp;
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robertd2000)](https://github.com/anuraghazra/github-readme-stats)
