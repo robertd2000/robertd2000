@@ -10,28 +10,31 @@ You can click the Preview link to take a look at your changes.
 
 ### 💻 Tech Stack:
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=TypeScript&logoColor=007ACC)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)&nbsp;
-![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)&nbsp;
-![](https://img.shields.io/badge/next.js-333333?style=flat&logo=nextdotjs&logoColor=white)&nbsp;
-![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vuedotjs)&nbsp;
-![](https://img.shields.io/badge/nuxt.js-333333?style=flat&logo=nuxtdotjs&logoColor=white)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5&logoColor=E34F26)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
-![](https://img.shields.io/badge/Django-333333?style=flat&logo=django&logoColor=green)&nbsp;
-![](https://img.shields.io/badge/fastapi-333333?style=flat&logo=FASTAPI&logoColor=white)&nbsp;
-![SASS](https://img.shields.io/badge/-SASS-333333?style=flat&logo=SASS)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![GraphQl](https://img.shields.io/badge/-GraphQl-333333?style=flat&logo=GraphQl)&nbsp;
-![](https://img.shields.io/badge/firebase-333333?style=flat&logo=firebase&logoColor=black)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)&nbsp;
+![Next](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)&nbsp;
+![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)&nbsp;
+![Nuxt](https://img.shields.io/badge/nuxt.js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white)&nbsp;
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)&nbsp;
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)&nbsp;
+![Django Rest](https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white)&nbsp;
+![FastApi](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)&nbsp;
+![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)&nbsp;
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
+![GraphQl](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)&nbsp;
+![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)&nbsp;
 
 ### 🛠 Tools:
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
-![PyCharm](https://img.shields.io/badge/-PyCharm-333333?style=flat&logo=pycharm)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)&nbsp;
 
-<!---[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robertd2000)](https://github.com/anuraghazra/github-readme-stats)--->
+![Activity](https://github-readme-activity-graph.cyclic.app/graph?username=robertd2000&theme=minimal)
+![Stats](https://github-readme-stats.vercel.app/api?username=robertd2000)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robertd2000)](https://github.com/anuraghazra/github-readme-stats)
