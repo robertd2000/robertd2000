@@ -34,6 +34,6 @@ You can click the Preview link to take a look at your changes.
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 <!-- ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)&nbsp; -->
 
-<!-- ![Activity](https://github-readme-activity-graph.cyclic.app/graph?username=robertd2000&theme=minimal) -->
-<!-- ![Stats](https://github-readme-stats.vercel.app/api?username=robertd2000) -->
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robertd2000)](https://github.com/anuraghazra/github-readme-stats) -->
+![Activity](https://github-readme-activity-graph.cyclic.app/graph?username=robertd2000&theme=minimal)
+![Stats](https://github-readme-stats.vercel.app/api?username=robertd2000)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robertd2000)](https://github.com/anuraghazra/github-readme-stats)
