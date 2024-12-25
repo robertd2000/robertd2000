@@ -36,5 +36,5 @@ You can click the Preview link to take a look at your changes.
 
 <!-- ![Activity](https://github-readme-activity-graph.cyclic.app/graph?username=robertd2000&theme=minimal) -->
 ![Stats](https://github-readme-stats.vercel.app/api?username=robertd2000)
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robertd2000) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robertd2000)
 
