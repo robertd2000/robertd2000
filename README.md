@@ -10,6 +10,7 @@ You can click the Preview link to take a look at your changes.
 
 ### 💻 Tech Stack:
 
+![Go](https://img.shields.io/badge/go-00adcc?style=for-the-badge&logo=go&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
@@ -21,7 +22,8 @@ You can click the Preview link to take a look at your changes.
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)&nbsp;
 ![GraphQl](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)&nbsp;
 ![Nuxt](https://img.shields.io/badge/nuxt.js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white)&nbsp;
-![Go](https://img.shields.io/badge/go-00adcc?style=for-the-badge&logo=go&logoColor=white)&nbsp;
+![PostreSQL](https://img.shields.io/badge/postgres-1f7cbc?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+
 
 <!-- ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp; -->
 <!-- ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)&nbsp; -->
